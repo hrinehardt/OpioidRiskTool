@@ -1,4 +1,3 @@
-# Lane was not here
 famHistAnswer = None
 personHistAnswer = None
 genderAnswer = None
